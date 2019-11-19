@@ -1,4 +1,4 @@
-filename,bbox_x1,bbox_y1,bbox_x2,bbox_y2,class_id,class_name,is_test,filename_cropped,bbox_h,bbox_w
+filename,xmin,ymin,xmax,ymax,class_id,class,is_test,filename_cropped,bbox_h,bbox_w
 00001.jpg,30,52,246,147,181,Suzuki Aerio Sedan 2007,1,00001.jpg,96,217
 00002.jpg,100,19,576,203,103,Ferrari 458 Italia Convertible 2012,1,00002.jpg,185,477
 00003.jpg,51,105,968,659,145,Jeep Patriot SUV 2012,1,00003.jpg,555,918
